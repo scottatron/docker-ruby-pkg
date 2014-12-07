@@ -1,6 +1,6 @@
 Builds Ruby versions in a Docker container using [ruby-build](https://github.com/sstephenson/ruby-build) and packages them using [FPM](https://github.com/jordansissel/fpm)
 
-Currently only supports Ubuntu 14.04, but could easily be adapted to other distros / versions.
+Currently only supports Ubuntu 14.04, but could easily be adapted to other distros and versions.
 
 ## Usage
 
